@@ -6,7 +6,6 @@ public class Person {
     private String name;
     private int age;
     private String address;
-
     private String height;
 
     public Person(String name, int age, String address, String height) {
